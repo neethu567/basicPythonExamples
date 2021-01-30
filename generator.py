@@ -1,4 +1,4 @@
-
+"""example for generators"""
 
 def topen():
     n=1
