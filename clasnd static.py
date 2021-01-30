@@ -1,3 +1,4 @@
+"""class and static mehod"""
 class student:
     clss="admaren"
     def __init__(self,name,age):
