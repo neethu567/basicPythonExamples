@@ -1,3 +1,4 @@
+"""decorator for swaping divison logic"""
 def smartdiv(funct):
     def inner(c,d):
         if d==0:
