@@ -1,3 +1,4 @@
+"""mixins for sharing a cls and methods of class  to another class"""
 class a:
     total=1234
 
