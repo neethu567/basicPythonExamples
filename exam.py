@@ -1,3 +1,4 @@
+"""caling function inside a function"""
 # def g():
 #     print("Hi, it's me 'g'")
 #     print("Thanks for calling me")
@@ -11,7 +12,7 @@
 #
 # f(g)
 
-# print(enumerate(4[::-1]))
+"""class method"""
 class student:
     school="admaren"
     def __init__(self,name):
