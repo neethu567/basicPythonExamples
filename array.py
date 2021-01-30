@@ -1,3 +1,4 @@
+""" array and range method """
 # for i in range(20,-4,-1):
 #     print(i)
 from array import*
@@ -9,6 +10,7 @@ for i in arr:
 # for i in nums:
 #     print(i)
 #
+"""copy and array to next aray"""
 newarray=array(arr.typecode(a for a in arr))
 for e in newarray:
     print(e)
