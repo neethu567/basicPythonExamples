@@ -1,3 +1,4 @@
+"""class method"""
 import datetime
 class Person:
     l='hhhh'
