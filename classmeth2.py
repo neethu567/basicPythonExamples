@@ -1,3 +1,4 @@
+"""class methos"""
 class studnet:
     school="admaren"
     def __init__(self,name,age,std):
